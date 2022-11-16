@@ -1,5 +1,9 @@
 ## Get Involved
 
+# Microsoft Singapore Public Sector Demo Repository
+
+Welcome to the Microsoft Singapore Public Sector Demo Repository.  This repository was created to showcase sample solutions that run in the Azure, Power Platform and D365 in Government Commercial Cloud. 
+
 Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
 
 ----
