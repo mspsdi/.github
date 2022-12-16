@@ -6,7 +6,7 @@ Welcome to the Microsoft Singapore Public Sector Demo Repository.  This reposito
 
 
 
-If you are looking for Microsoft Open Source projects, please visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+If you are unable to access the demos, please visit [Get Access](https://forms.office.com/r/wjG4Wg4fuV) to learn more!
 
 ----
 
