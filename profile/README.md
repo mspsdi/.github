@@ -10,7 +10,7 @@ Below is a listing of the solutions available for use. These solution are meant 
 
 | Demo Name | Azure Commercial Cloud | GCC 1.0 | GCC 2.0 |
 | --------- | :---: | :----: | :---: |
-| [Event Management System](https://github.com/microsoftsg/Event-Management-System/) | :heavy_check_mark: | | |
+| [Event Attendance System](https://github.com/microsoftsg/Event-Management-System/) | :heavy_check_mark: | | |
 
 ## Infrastructure As Code Templates
 
